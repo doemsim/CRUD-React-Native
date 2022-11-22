@@ -1,0 +1,2 @@
+Run below commit after run npm run android
+adb -s emulator-5554 reverse tcp:3000 tcp:3000
